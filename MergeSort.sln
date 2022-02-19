@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "MergeSort\MergeSort.csproj", "{77124B93-69FD-4826-838A-5F9728D12D9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77124B93-69FD-4826-838A-5F9728D12D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77124B93-69FD-4826-838A-5F9728D12D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77124B93-69FD-4826-838A-5F9728D12D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77124B93-69FD-4826-838A-5F9728D12D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5F5E4F3-BF37-4146-8058-A1EFD900151A}
+	EndGlobalSection
+EndGlobal
